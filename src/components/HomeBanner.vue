@@ -76,7 +76,7 @@
         </div>
         <div class="col-lg-4">
           <div class="banner__thumb">
-            <img src="/src/assets/img/banner/grey.png" style="width:  100%; height: fit-content; opacity: 0.9;" alt="man-img" />
+            <img src="/src/assets/img/banner/grey.png" style="width:  90%; height: fit-content; opacity: 0.9;" alt="man-img" />
           </div>
         </div>
       </div>
